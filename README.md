@@ -1,1 +1,0 @@
-# AWS-autoscaling-load-balancer
