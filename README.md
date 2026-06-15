@@ -110,7 +110,9 @@ CPU load was generated using:
 
 ```bash
 
-sha1sum /dev/zero \&
+sha1sum /dev/zero &
+
+```
 
 
 
